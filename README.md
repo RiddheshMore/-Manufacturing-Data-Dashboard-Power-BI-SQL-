@@ -9,9 +9,7 @@ This project simulates how a manufacturing company like ABB can use data to opti
 - Derive actionable insights for operations and project management.
 
 ## 🗃 Dataset
-Source: [Kaggle - Synthetic Manufacturing Data](https://www.kaggle.com/datasets/datasetslogan/synthetic-manufacturing-data)
-
-## 🧱 Tools & Technologies
+Source: 
 - Power BI
 - PostgreSQL / Azure SQL
 - SQL
@@ -26,4 +24,4 @@ Source: [Kaggle - Synthetic Manufacturing Data](https://www.kaggle.com/datasets/
 - Maintenance history tracking
 
 ## 📌 Sample Visuals
-> _Add screenshots in the `/assets/screenshots/` folder and embed them here_
+
